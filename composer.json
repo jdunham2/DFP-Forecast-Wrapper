@@ -7,8 +7,10 @@
     "require": {
         "php": ">=7.0.0",
         "fideloper/proxy": "~3.3",
+        "googleads/googleads-php-lib": "^31.0",
         "laravel/framework": "5.5.*",
-        "laravel/tinker": "~1.0"
+        "laravel/tinker": "~1.0",
+        "phpdocumentor/reflection-docblock": "4.1.1 as 3.1.0"
     },
     "require-dev": {
         "filp/whoops": "~2.0",
