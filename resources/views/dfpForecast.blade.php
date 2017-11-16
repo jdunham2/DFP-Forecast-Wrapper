@@ -3,7 +3,7 @@
     <title>Forecast Available Impressions</title>
 
     <link href="/css/lib/bootstrap3.3.7.min.css" rel="stylesheet">
-    <link href="/css/lib/jquery-ui.1.12.1.min.css" rel="stylesheet">
+    <link href="/css/lib/jquery-ui-1.12.1.custom/jquery-ui.min.css" rel="stylesheet">
     <link href="/css/app.css" rel="stylesheet">
 
 </head>
@@ -82,7 +82,7 @@
 </div>
 
 <script src="/js/lib/jquery-3.2.1.min.js"></script>
-<script src="/js/lib/jquery-ui-1.12.1.min.js"></script>
+<script src="/js/lib/jquery-ui-1.12.1.custom/jquery-ui.min.js"></script>
 <script src="/js/lib/bootstrap-3.3.7.min.js"></script>
 <script src="/js/lib/ChartJs.2.7.bundle.min.js"></script>
 
