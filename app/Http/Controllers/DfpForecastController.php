@@ -15,12 +15,12 @@ class DfpForecastController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function new()
     {
         return view('dfpForecast');
     }
 
-    public function find(Request $request)
+    public function create(Request $request)
     {
         $timestart = microtime(true);
         $validatedData = $request->validate([

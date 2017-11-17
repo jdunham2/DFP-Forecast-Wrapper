@@ -11,5 +11,5 @@
 |
 */
 
-Route::get('/dfpforecast', 'DfpForecastController@index');
-Route::post('/dfpforecast', 'DfpForecastController@find');
+Route::get('/dfpforecast', 'DfpForecastController@new');
+Route::post('/dfpforecast', 'DfpForecastController@create');
